@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "deny": ["Read(./facturas-reales/**)", "Read(./uploads/**)", "Read(./.env)"]
+  }
+}
